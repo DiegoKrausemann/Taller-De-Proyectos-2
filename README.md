@@ -16,6 +16,6 @@ Este proyecto está diseñado como parte de un trabajo práctico para el taller 
 ## Requisitos para Ejecutar el Proyecto
 - Git
 - Navegador web compatible
-- [Otros requisitos adicionales específicos del proyecto]
+
 
 
