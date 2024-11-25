@@ -9,9 +9,9 @@ Este proyecto está diseñado como parte de un trabajo práctico para el taller 
 - **design/**: Diseño de la interfaz y mockups iniciales.
 
 ## Estado Actual del Proyecto
-- **Análisis de Necesidades**: Completado al 60%
-- **Diseño de la Interfaz**: Primera versión de la interfaz desarrollada.
-- **Desarrollo de Base de Datos**: Estructura preliminar de la base de datos creada.
+- **Análisis de Necesidades**: Completado.
+- **Diseño de la Interfaz**: versión de la interfaz desarrollada.
+- **Desarrollo de Base de Datos**: Estructura de la base de datos creada.
 
 ## Requisitos para Ejecutar el Proyecto
 - Git
