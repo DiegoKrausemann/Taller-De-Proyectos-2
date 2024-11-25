@@ -44,17 +44,17 @@ Agregué tareas, las visualicé, cambié su estado a "completa" y eliminé algun
 Cuando ejecuto el programa, puedo interactuar con él directamente desde la terminal.
 
 ## Agregar tareas: 
-- **Escribo el nombre de la tarea que quiero añadir. Se guarda como "pendiente".
+- Escribo el nombre de la tarea que quiero añadir. Se guarda como "pendiente".
 
 ## Ver tareas: 
-- **Uso el comando correspondiente para ver todas las tareas con su estado actual.
+- Uso el comando correspondiente para ver todas las tareas con su estado actual.
 
 ## Actualizar estado: 
-- **Cambio el estado de una tarea a "completa" escribiendo su número de identificación (ID).
+- Cambio el estado de una tarea a "completa" escribiendo su número de identificación (ID).
 
 ## Eliminar tareas: 
-- **Puedo borrar una tarea si ya no es necesaria, y se reorganiza la lista.
+- Puedo borrar una tarea si ya no es necesaria, y se reorganiza la lista.
 
 ## Conclusión
 
-- **El sistema funciona correctamente, y me aseguré de que las funciones principales (agregar, mostrar, actualizar y eliminar tareas) cumplan con los objetivos planteados al inicio del proyecto. Además, probé posibles casos de error, como no ingresar una tarea o intentar cambiar el estado de una tarea inexistente, y todo se comportó como esperaba.
+- El sistema funciona correctamente, y me aseguré de que las funciones principales (agregar, mostrar, actualizar y eliminar tareas) cumplan con los objetivos planteados al inicio del proyecto. Además, probé posibles casos de error, como no ingresar una tarea o intentar cambiar el estado de una tarea inexistente, y todo se comportó como esperaba.
