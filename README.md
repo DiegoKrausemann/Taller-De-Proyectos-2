@@ -1,60 +1,47 @@
 # Taller De Proyectos 2 Trabajo Final
 
-## Descripción del Proyecto
-Este proyecto está diseñado como parte de un trabajo práctico para el taller de seminario de desarrollo web. El objetivo es desarrollar una aplicación web que incluya una interfaz de usuario intuitiva y un sistema de base de datos básico para gestionar tareas.
+## Implementación y Evaluación del Sistema de Gestión de Tareas
 
-## Estructura del Proyecto
-- **src/**: Carpeta que contiene el código fuente de la aplicación.
-- **docs/**: Documentación del proyecto, incluyendo diagramas de flujo y especificaciones.
-- **design/**: Diseño de la interfaz y mockups iniciales.
+## Implementación
+En esta etapa, se llevaron a cabo las acciones necesarias para convertir las especificaciones iniciales en un sistema funcional. Se creó un prototipo funcional que permite a los usuarios gestionar tareas mediante las operaciones de agregar, visualizar, editar y eliminar.
 
-## Estado Actual del Proyecto
-- **Análisis de Necesidades**: Completado.
-- **Diseño de la Interfaz**: versión de la interfaz desarrollada.
-- **Desarrollo de Base de Datos**: Estructura de la base de datos creada.
+## Aspectos Técnicos
 
-## Requisitos para Ejecutar el Proyecto
-- Git
-- Navegador web compatible
+## Estructura del Sistema:
 
-## Implementación y Uso del Sistema
+.  src/: Incluye el código fuente, como las funcionalidades principales del sistema (gestión de tareas).
+.  docs/: Contiene documentación relevante como el análisis de necesidades, pruebas realizadas y reflexiones.
+.  design/: Alberga los mockups iniciales y el diseño final de la interfaz.
 
-## Implementación y Uso del Sistema
-- Para implementar el sistema de gestión de tareas que desarrollé, seguí estos pasos:
+## Base de Datos:
+La base de datos fue diseñada con una tabla simple llamada Tareas, que almacena cada tarea con su identificador, nombre y estado. Durante el desarrollo, se agregó la funcionalidad de actualización dinámica del estado de las tareas.
 
-## Requisitos previos
-- Asegurarme de tener Python 3 instalado en mi computadora para ejecutar el programa.
-Si no lo tenía, lo descargué desde python.org.
-Utilicé un editor de código sencillo como VS Code, pero también se puede usar cualquier otro.
-Pasos para implementar
-Abrí el archivo principal del proyecto:
-Guardé mi código en un archivo llamado main.py.
+## Pruebas Realizadas:
+Se implementaron y documentaron pruebas para cada funcionalidad del sistema:
 
-## Ejecuté el programa:
-- Abrí la terminal, fui a la carpeta donde guardé el archivo y ejecuté el comando:
+.  Agregar tareas.
+.  Visualizar tareas.
+.  Actualizar estado de las tareas.
+.  Eliminar tareas.
+.  Evaluación
 
-bash
-Copiar código
-python main.py
+## El proyecto fue evaluado en función de los objetivos planteados inicialmente:
 
-## Probé las funcionalidades principales del sistema:
-Agregué tareas, las visualicé, cambié su estado a "completa" y eliminé algunas para confirmar que todo funcionaba correctamente.
+## ¿Qué funcionó bien?
 
-## Cómo usar el sistema
-Cuando ejecuto el programa, puedo interactuar con él directamente desde la terminal.
+La estructura modular del proyecto permitió un desarrollo ordenado.
+Las pruebas de las funcionalidades clave mostraron resultados correctos.
+La interfaz inicial, aunque básica, cumple con el propósito funcional.
 
-## Agregar tareas: 
-- Escribo el nombre de la tarea que quiero añadir. Se guarda como "pendiente".
+## ¿Qué se podría mejorar?
 
-## Ver tareas: 
-- Uso el comando correspondiente para ver todas las tareas con su estado actual.
+.  Incorporar un diseño más interactivo y amigable para el usuario.
+Integrar autenticación para manejar usuarios y asignar tareas individualmente.
+Utilizar una base de datos más robusta para proyectos más grandes.
 
-## Actualizar estado: 
-- Cambio el estado de una tarea a "completa" escribiendo su número de identificación (ID).
+## ¿Qué aprendí durante el desarrollo?
 
-## Eliminar tareas: 
-- Puedo borrar una tarea si ya no es necesaria, y se reorganiza la lista.
-
-## Conclusión
-
-- El sistema funciona correctamente, y me aseguré de que las funciones principales (agregar, mostrar, actualizar y eliminar tareas) cumplan con los objetivos planteados al inicio del proyecto. Además, probé posibles casos de error, como no ingresar una tarea o intentar cambiar el estado de una tarea inexistente, y todo se comportó como esperaba.
+.  La importancia de planificar y dividir el proyecto en tareas pequeñas y alcanzables.
+Cómo organizar un proyecto de software, desde la codificación hasta la documentación.
+El valor de las pruebas en cada etapa para garantizar la funcionalidad.
+Con estas acciones y reflexiones, el sistema se encuentra funcional y listo para su presentación. Los aprendizajes obtenidos en este proyecto serán útiles para futuros desarrollos más complejos.
