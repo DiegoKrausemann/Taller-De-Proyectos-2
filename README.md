@@ -30,27 +30,27 @@ Pasos para implementar
 Abrí el archivo principal del proyecto:
 Guardé mi código en un archivo llamado main.py.
 
-##Ejecuté el programa:
+## Ejecuté el programa:
 Abrí la terminal, fui a la carpeta donde guardé el archivo y ejecuté el comando:
 
 bash
 Copiar código
 python main.py
 
-##Probé las funcionalidades principales del sistema:
+## Probé las funcionalidades principales del sistema:
 Agregué tareas, las visualicé, cambié su estado a "completa" y eliminé algunas para confirmar que todo funcionaba correctamente.
 
-##Cómo usar el sistema
+## Cómo usar el sistema
 Cuando ejecuto el programa, puedo interactuar con él directamente desde la terminal.
 
-##Agregar tareas: Escribo el nombre de la tarea que quiero añadir. Se guarda como "pendiente".
+## Agregar tareas: Escribo el nombre de la tarea que quiero añadir. Se guarda como "pendiente".
 
-##Ver tareas: Uso el comando correspondiente para ver todas las tareas con su estado actual.
+## Ver tareas: Uso el comando correspondiente para ver todas las tareas con su estado actual.
 
-##Actualizar estado: Cambio el estado de una tarea a "completa" escribiendo su número de identificación (ID).
+## Actualizar estado: Cambio el estado de una tarea a "completa" escribiendo su número de identificación (ID).
 
-##Eliminar tareas: Puedo borrar una tarea si ya no es necesaria, y se reorganiza la lista.
+## Eliminar tareas: Puedo borrar una tarea si ya no es necesaria, y se reorganiza la lista.
 
-##Conclusión
+## Conclusión
 
 El sistema funciona correctamente, y me aseguré de que las funciones principales (agregar, mostrar, actualizar y eliminar tareas) cumplan con los objetivos planteados al inicio del proyecto. Además, probé posibles casos de error, como no ingresar una tarea o intentar cambiar el estado de una tarea inexistente, y todo se comportó como esperaba.
