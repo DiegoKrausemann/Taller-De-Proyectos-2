@@ -20,10 +20,10 @@ Este proyecto está diseñado como parte de un trabajo práctico para el taller 
 ## Implementación y Uso del Sistema
 
 ## Implementación y Uso del Sistema
-- **Para implementar el sistema de gestión de tareas que desarrollé, seguí estos pasos:
+- Para implementar el sistema de gestión de tareas que desarrollé, seguí estos pasos:
 
 ## Requisitos previos
-- **Asegurarme de tener Python 3 instalado en mi computadora para ejecutar el programa.
+- Asegurarme de tener Python 3 instalado en mi computadora para ejecutar el programa.
 Si no lo tenía, lo descargué desde python.org.
 Utilicé un editor de código sencillo como VS Code, pero también se puede usar cualquier otro.
 Pasos para implementar
@@ -31,7 +31,7 @@ Abrí el archivo principal del proyecto:
 Guardé mi código en un archivo llamado main.py.
 
 ## Ejecuté el programa:
-- **Abrí la terminal, fui a la carpeta donde guardé el archivo y ejecuté el comando:
+- Abrí la terminal, fui a la carpeta donde guardé el archivo y ejecuté el comando:
 
 bash
 Copiar código
