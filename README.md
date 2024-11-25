@@ -1,4 +1,4 @@
-# Taller De Proyectos 2
+# Taller De Proyectos 2 Trabajo Final
 
 ## Descripción del Proyecto
 Este proyecto está diseñado como parte de un trabajo práctico para el taller de seminario de desarrollo web. El objetivo es desarrollar una aplicación web que incluya una interfaz de usuario intuitiva y un sistema de base de datos básico para gestionar tareas.
